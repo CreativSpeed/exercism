@@ -77,5 +77,8 @@ typings/
 # Serverless directories
 .serverless
 
+# haskell
+haskell/
+
 
 # End of https://www.gitignore.io/api/node
