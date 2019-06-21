@@ -75,3 +75,14 @@ typings/
 
 # haskell
 .stack-work/
+
+# java
+**/tmp/
+**/.gradle/
+**/build/
+**/.exercism/
+
+# python 
+python/
+
+
